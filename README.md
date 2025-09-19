@@ -1,6 +1,6 @@
 # ML-DL-Python
 
-This repository contains exercises and practice materials from the Machine Learning and Deep Learning course by Eng. Amir. Zamanidoost ([a.zamanidoost@gmail.com]).
+This repository contains exercises and practice materials from the Machine Learning and Deep Learning course by Eng. Amir. Zamanidoost (a.zamanidoost@gmail.com).
 
 In this course, the following tools and libraries are taught and used:
 
